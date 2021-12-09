@@ -26,5 +26,5 @@ async function run() {
 }
 run().catch(console.dir);
 }
-
+//edit
 newReg("lo_squalo", "12/04/2021", "enricostrade", "in_attesa");
